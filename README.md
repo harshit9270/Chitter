@@ -1,4 +1,4 @@
-[Visit our website here](https://dsc-chitter.herokuapp.com/)
+[Visit our website here](https://chitter.onrender.com/)
 <div align="center">
 <h2 style="text-align:center;font-size:53px;color:red"><span style="color:blue">Chitter
 </div>
@@ -6,13 +6,13 @@
 <h3>Mini social media app(like twitter) that lets the user signup, login, and then post anything on their mind.</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/harshit9270/dsc-chitter/main/snips/snip1.jpg" alt="img"/>
+<img src="https://raw.githubusercontent.com/harshit9270/Chitter/main/snips/snip1.jpg" alt="img"/>
 <br>
-<img src="https://raw.githubusercontent.com/harshit9270/dsc-chitter/main/snips/snip2.jpg" alt="img"/>
+<img src="https://raw.githubusercontent.com/harshit9270/Chitter/main/snips/snip2.jpg" alt="img"/>
 <br>
-<img src="https://raw.githubusercontent.com/harshit9270/dsc-chitter/main/snips/snip3.jpg" alt="img"/>
+<img src="https://raw.githubusercontent.com/harshit9270/Chitter/main/snips/snip3.jpg" alt="img"/>
 <br>
-<img src="https://raw.githubusercontent.com/harshit9270/dsc-chitter/main/snips/snip4.jpg" alt="img"/>
+<img src="https://raw.githubusercontent.com/harshit9270/Chitter/main/snips/snip4.jpg" alt="img"/>
 <br>
 </div>
 
@@ -54,12 +54,12 @@ Environment Setup-
 
 * Clone the repository by running command
 ```
-git clone https://github.com/ <your user-name> /dsc-chitter.git
+git clone https://github.com/ <your user-name> /Chitter.git
 ```
 in your git bash.
 <br/>
 
-* Run command `cd dsc-chitter`.
+* Run command `cd Chitter`.
 <br/>
 
 * Run this command to install all dependencies for the project.
